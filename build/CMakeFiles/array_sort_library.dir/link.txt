@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libarray_sort_library.so -o libarray_sort_library.so CMakeFiles/array_sort_library.dir/src/array_sort_library.c.o 

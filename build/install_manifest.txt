@@ -1,0 +1,2 @@
+/usr/local/lib/libarray_sort_library.so
+/usr/local/include/array_sort_library/array_sort_library.h
